@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "69be5a35288ec4e77f112eda"
+  },
+  "name": "System Admin",
+  "email": "admin@karlrental.com",
+  "password": "admin123",
+  "role": "admin",
+  "balance": 0,
+  "phone": "09123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bfffd162b591eef57d8592"
+  },
+  "name": "acc1",
+  "email": "acc1@gmail.com",
+  "password": "satwinder09",
+  "role": "customer",
+  "balance": 9,
+  "phone": "09205614310",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c127dae934cb520d4fe7d8"
+  },
+  "name": "satwinder jeerh",
+  "email": "acc2@gmail.com",
+  "password": "satwinder09",
+  "role": "customer",
+  "balance": 1200,
+  "phone": "09205614301",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c12e74a80b8a9f651d9adf"
+  },
+  "name": "karl guiao",
+  "email": "karlguiao@gmail.com",
+  "password": "satwinder09",
+  "role": "customer",
+  "balance": 522,
+  "phone": "09205614320",
+  "__v": 0
+}]

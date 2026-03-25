@@ -1,0 +1,1368 @@
+[{
+  "_id": {
+    "$oid": "69c0014762b591eef57d861f"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T14:42:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T14:47:57.901Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:42:35.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c0014762b591eef57d8620"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T14:42:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 150,
+    "pickupAddress": "hau",
+    "timeSlot": "01:00 PM - 03:00 PM",
+    "requestDate": {
+      "$date": "2026-03-22T14:47:59.806Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:42:39.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c0014762b591eef57d8621"
+  },
+  "carId": "5",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "BMW M4 Competition",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T14:42:00.000Z"
+  },
+  "total": 180,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 180,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T14:48:01.153Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:42:50.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c0014762b591eef57d8622"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T14:42:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T14:48:02.788Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:42:56.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c0014762b591eef57d8623"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T14:42:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 150,
+    "pickupAddress": "hau",
+    "timeSlot": "01:00 PM - 03:00 PM",
+    "requestDate": {
+      "$date": "2026-03-22T14:48:04.672Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:43:02.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c0014762b591eef57d8624"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-26T14:42:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-27T14:42:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T14:48:39.859Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Trip Completed Early",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T14:48:06.311Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:43:09.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c004a162b591eef57d86a6"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T14:53:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T14:53:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:02:57.050Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "Vehicle issue",
+    "estimatedRefund": 50,
+    "pickupAddress": "hau",
+    "timeSlot": "08:00 AM - 10:00 AM",
+    "requestDate": {
+      "$date": "2026-03-22T15:02:39.033Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:53:26.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c004a162b591eef57d86a7"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T14:53:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T14:53:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:02:57.050Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Change of plans",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T15:02:41.192Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:54:09.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c004a162b591eef57d86a8"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-26T14:53:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-27T14:53:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:02:57.050Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Change of plans",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T15:02:43.694Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:57:04.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c004a162b591eef57d86a9"
+  },
+  "carId": "6",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Audi RS e-tron GT",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T14:59:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T14:59:00.000Z"
+  },
+  "total": 220,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:02:57.050Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "Change of plans",
+    "estimatedRefund": 120,
+    "pickupAddress": "hau",
+    "timeSlot": "08:00 AM - 10:00 AM",
+    "requestDate": {
+      "$date": "2026-03-22T15:02:45.519Z"
+    }
+  },
+  "__v": 0,
+  "service": "delivery",
+  "address": "hau",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T14:59:53.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c00f0b62b591eef57d871b"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T15:10:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T15:10:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:47:23.058Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "Change of plans",
+    "estimatedRefund": 50,
+    "pickupAddress": "hau",
+    "timeSlot": "03:00 PM - 05:00 PM",
+    "requestDate": {
+      "$date": "2026-03-22T15:47:04.812Z"
+    }
+  },
+  "__v": 0,
+  "service": "delivery",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T15:12:06.915Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c00f0b62b591eef57d871c"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T17:45:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T17:45:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T15:47:23.058Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "Found a better deal",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T15:47:07.318Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T15:45:24.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c01868dd409b2f6948570e"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:08:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:08:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T16:27:20.831Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T16:08:24.558Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:08:05.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c01868dd409b2f6948570f"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:08:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:08:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T16:27:20.831Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T16:14:58.028Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:08:54.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c01868dd409b2f69485710"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:15:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:15:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T16:27:20.831Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T16:17:25.955Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:15:20.840Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c01868dd409b2f69485711"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:17:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:17:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T16:27:20.831Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Personal emergency",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T16:19:10.211Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:17:49.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c01868dd409b2f69485712"
+  },
+  "carId": "2",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Porsche Taycan Turbo",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T16:19:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T16:19:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-22T16:27:20.831Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans",
+    "estimatedRefund": 249,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-22T16:20:02.713Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:19:24.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c13193a80b8a9f651d9b3c"
+  },
+  "carId": "9",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "McLaren 750S Spider",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:16:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:16:00.000Z"
+  },
+  "total": 900,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T12:26:59.475Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 900,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:17:14.348Z"
+    }
+  },
+  "__v": 0,
+  "service": "delivery",
+  "address": "hau",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:16:40.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c1319ea80b8a9f651d9b44"
+  },
+  "carId": "13",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Bentley Continental GT",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:15:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:15:00.000Z"
+  },
+  "total": 550,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T12:27:10.916Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 550,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:16:18.780Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:15:12.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c131a4a80b8a9f651d9b4c"
+  },
+  "carId": "17",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Maserati MC20 Cielo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:14:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:14:00.000Z"
+  },
+  "total": 600,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T12:27:16.709Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 600,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:16:17.101Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:14:58.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c6c"
+  },
+  "carId": "3",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Lamborghini Revuelto",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:28:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:28:00.000Z"
+  },
+  "total": 850,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.048Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 850,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:30:17.043Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:28:08.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c6d"
+  },
+  "carId": "5",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "BMW M4 Competition",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:28:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:28:00.000Z"
+  },
+  "total": 180,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.048Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Vehicle issue",
+    "estimatedRefund": 179,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:30:18.925Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:28:39.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c6e"
+  },
+  "carId": "12",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Rivian R1S",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:28:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:28:00.000Z"
+  },
+  "total": 170,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.048Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans",
+    "estimatedRefund": 169,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:30:20.361Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:29:01.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c6f"
+  },
+  "carId": "3",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Lamborghini Revuelto",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:30:00.000Z"
+  },
+  "total": 850,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.048Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans",
+    "estimatedRefund": 849,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:39:27.573Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:30:35.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c70"
+  },
+  "carId": "3",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Lamborghini Revuelto",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:39:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:39:00.000Z"
+  },
+  "total": 850,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.048Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans [VALET_PICKUP_FEE_APPLIED]",
+    "estimatedRefund": 749,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:45:02.971Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:39:41.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c71"
+  },
+  "carId": "3",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Lamborghini Revuelto",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:45:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:45:00.000Z"
+  },
+  "total": 850,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.049Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans [VALET_PICKUP_FEE_APPLIED]",
+    "estimatedRefund": 749,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T12:52:21.623Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:45:32.922Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c14506a80b8a9f651d9c72"
+  },
+  "carId": "3",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Lamborghini Revuelto",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T12:52:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T12:52:00.000Z"
+  },
+  "total": 850,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T13:49:58.049Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "RETURNED: Change of plans [VALET_PICKUP_FEE_APPLIED]",
+    "estimatedRefund": 749,
+    "pickupAddress": "hau",
+    "timeSlot": "10:00 AM - 12:00 PM",
+    "requestDate": {
+      "$date": "2026-03-23T12:56:30.315Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T12:52:36.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c153faa80b8a9f651d9d1a"
+  },
+  "carId": "2",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Porsche Taycan Turbo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:28:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:28:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T14:53:46.346Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Change of plans",
+    "estimatedRefund": 249,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T14:48:50.663Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T14:29:37.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c153faa80b8a9f651d9d1b"
+  },
+  "carId": "2",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Porsche Taycan Turbo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-25T14:28:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-26T14:28:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-23T14:53:46.346Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-23T14:49:03.120Z"
+    }
+  },
+  "__v": 0,
+  "service": "delivery",
+  "address": "hau",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T14:35:41.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9953"
+  },
+  "carId": "1",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Tesla Model S Plaid",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:25:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:25:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "RETURNED: Finished renting",
+    "estimatedRefund": 0,
+    "pickupAddress": "Office Drop-off",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-24T14:14:01.863Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:25:56.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9954"
+  },
+  "carId": "16",
+  "userId": "69bfffd162b591eef57d8592",
+  "carName": "Ford Mustang Dark Horse",
+  "user": "acc1@gmail.com",
+  "startDate": {
+    "$date": "2026-03-22T18:26:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-23T18:26:00.000Z"
+  },
+  "total": 140,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Finished renting",
+    "estimatedRefund": 0,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-24T14:14:05.365Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-22T16:26:16.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9955"
+  },
+  "carId": "2",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Porsche Taycan Turbo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T16:56:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T16:56:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Vehicle issue",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-24T14:14:06.430Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T14:56:01.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9956"
+  },
+  "carId": "2",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Porsche Taycan Turbo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-25T16:56:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-26T16:56:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Change of plans",
+    "estimatedRefund": 250,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-24T14:14:07.213Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T14:56:06.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9957"
+  },
+  "carId": "6",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Audi RS e-tron GT",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-23T14:56:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-24T14:56:00.000Z"
+  },
+  "total": 220,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "company_pickup",
+    "reason": "RETURNED: Personal emergency [VALET_PICKUP_FEE_APPLIED]",
+    "estimatedRefund": 119,
+    "pickupAddress": "hau",
+    "timeSlot": "10:00 AM - 12:00 PM",
+    "requestDate": {
+      "$date": "2026-03-24T14:14:09.053Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-23T14:57:00.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9958"
+  },
+  "carId": "1",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Tesla Model S Plaid",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T16:14:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T16:14:00.000Z"
+  },
+  "total": 150,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "CANCELLED: Finished renting",
+    "estimatedRefund": 150,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-24T14:16:38.391Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-24T14:14:54.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c35ceefa746025548d9959"
+  },
+  "carId": "2",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carName": "Porsche Taycan Turbo",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T16:17:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T16:17:00.000Z"
+  },
+  "total": 250,
+  "refund": 0,
+  "status": "archived_permanent",
+  "archivedAt": {
+    "$date": "2026-03-25T03:56:30.458Z"
+  },
+  "terminationRequest": {
+    "returnMethod": "office_dropoff",
+    "reason": "RETURNED: Finished renting",
+    "estimatedRefund": 130,
+    "pickupAddress": "N/A",
+    "timeSlot": "N/A",
+    "requestDate": {
+      "$date": "2026-03-25T03:44:54.541Z"
+    }
+  },
+  "__v": 0,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "created_at": {
+    "$date": "2026-03-24T14:17:43.066Z"
+  }
+}]

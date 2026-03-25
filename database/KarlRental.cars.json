@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb0"
+  },
+  "id": 1,
+  "brand": "Tesla",
+  "model": "Model S Plaid",
+  "pricePerDay": 150,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/N6hCs-nGL32rpr-oRIxFIrrYE5KCjvH-_uUZeNBSOyg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYWxwaGFjb2Rl/cnMuY29tLzEyMS90/aHVtYmJpZy0xMjEw/NjUxLndlYnA",
+  "isAvailable": true,
+  "transmission": "Single-Speed",
+  "fuelType": "Electric",
+  "engine": "Tri-Motor AWD",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb1"
+  },
+  "id": 2,
+  "brand": "Porsche",
+  "model": "Taycan Turbo",
+  "pricePerDay": 250,
+  "type": "Exotic",
+  "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200",
+  "isAvailable": true,
+  "transmission": "2-Speed Auto",
+  "fuelType": "Electric",
+  "engine": "Dual-Motor Performance",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb2"
+  },
+  "id": 3,
+  "brand": "Lamborghini",
+  "model": "Revuelto",
+  "pricePerDay": 850,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/3---1RHbZTtINDAw0Q2KDkHRBi3slpXd6al3R0E0Ljc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MTI4MjUxNzMyODEt/OWExOTMzNzg1Mjdl/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZhdXRv/PWZvcm1hdCZmaXQ9/Y3JvcCZpeGxpYj1y/Yi00LjEuMCZpeGlk/PU0zd3hNakEzZkRC/OE1IeGxlSEJzYjNK/bExXWmxaV1I4Tm54/OGZHVnVmREI4Zkh4/OGZBPT0",
+  "isAvailable": true,
+  "transmission": "8-Speed DCT",
+  "fuelType": "Hybrid",
+  "engine": "6.5L V12 PHEV",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb3"
+  },
+  "id": 4,
+  "brand": "Ferrari",
+  "model": "296 GTB",
+  "pricePerDay": 750,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/Op3rMhMFl_K31TsdzalWQxcP8SEAnCfB0-WyMv1yxBA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC9iLzQv/ZC8xNzE0NTg5LTE5/MjB4MTIwMC1kZXNr/dG9wLWhkLWZlcnJh/cmktMjk2LWd0Yi13/YWxscGFwZXItaW1h/Z2UuanBn",
+  "isAvailable": true,
+  "transmission": "8-Speed F1 DCT",
+  "fuelType": "Hybrid",
+  "engine": "3.0L V6 Twin-Turbo PHEV",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb4"
+  },
+  "id": 5,
+  "brand": "BMW",
+  "model": "M4 Competition",
+  "pricePerDay": 180,
+  "type": "Performance",
+  "imageUrl": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=1200",
+  "isAvailable": true,
+  "transmission": "8-Speed M Steptronic",
+  "fuelType": "Gasoline",
+  "engine": "3.0L M TwinPower Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb5"
+  },
+  "id": 6,
+  "brand": "Audi",
+  "model": "RS e-tron GT",
+  "pricePerDay": 220,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/kWKD2WXMHw7B62bAzsH8yoQbGA96SgbwKUjS-ldECYs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC8xLzkv/OC8xNjg5NzYyLTE5/MjB4MTA4MC1kZXNr/dG9wLWZ1bGwtaGQt/YXVkaS1lLXRyb24t/d2FsbHBhcGVyLXBo/b3RvLmpwZw",
+  "isAvailable": true,
+  "transmission": "2-Speed Automatic",
+  "fuelType": "Electric",
+  "engine": "Dual-Motor Quattro",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb6"
+  },
+  "id": 7,
+  "brand": "Mercedes-Benz",
+  "model": "G 63 AMG",
+  "pricePerDay": 400,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/HDzUDZqt5fGQN9AONIofZf5d9zrqtQar2WoaKS9wPhk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDIyODY2/MzYuanBn",
+  "isAvailable": true,
+  "transmission": "9G-TRONIC",
+  "fuelType": "Gasoline",
+  "engine": "4.0L V8 Biturbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb7"
+  },
+  "id": 8,
+  "brand": "Aston Martin",
+  "model": "Vantage",
+  "pricePerDay": 350,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/A--c-ySFn0M-WLibunXCYKGlWUZzboaOtT3YVomT8TI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8x/Mi8wMy8xMC8yMy9h/c3Rvbi1tYXJ0aW4t/MTg3OTQ5Ml82NDAu/anBn",
+  "isAvailable": true,
+  "transmission": "8-Speed Automatic",
+  "fuelType": "Gasoline",
+  "engine": "4.0L V8 Twin-Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb8"
+  },
+  "id": 9,
+  "brand": "McLaren",
+  "model": "750S Spider",
+  "pricePerDay": 900,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/0sXgRtdlMmtLENuu-ZLkEUujlORZAFuOeozmOXFVC8g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d3N1cGVyY2Fycy5j/b20vdGh1bWJuYWls/cy13aWRlL01jTGFy/ZW4vMjAyNC1NY0xh/cmVuLTc1MFMtU3Bp/ZGVyLTAwNy5qcGc",
+  "isAvailable": true,
+  "transmission": "7-Speed SSG",
+  "fuelType": "Gasoline",
+  "engine": "4.0L V8 Twin-Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cb9"
+  },
+  "id": 10,
+  "brand": "Rolls-Royce",
+  "model": "Spectre",
+  "pricePerDay": 1200,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/955SQ3AQqE_IytEbVktt6qGSMRTDCmZt_qc8nGayc68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvMzc2/NDk4Ni9wZXhlbHMt/cGhvdG8tMzc2NDk4/Ni5qcGVnP2F1dG89/Y29tcHJlc3MmY3M9/dGlueXNyZ2ImZHBy/PTEmdz01MDA",
+  "isAvailable": true,
+  "transmission": "Direct Drive",
+  "fuelType": "Electric",
+  "engine": "Dual-Motor 577hp",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cba"
+  },
+  "id": 11,
+  "brand": "Nissan",
+  "model": "GT-R NISMO",
+  "pricePerDay": 320,
+  "type": "Performance",
+  "imageUrl": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1200",
+  "isAvailable": true,
+  "transmission": "6-Speed Dual-Clutch",
+  "fuelType": "Gasoline",
+  "engine": "3.8L V6 Twin-Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cbb"
+  },
+  "id": 12,
+  "brand": "Rivian",
+  "model": "R1S",
+  "pricePerDay": 170,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/gzs35hkJu5RrOoQEHA8Q9FzxjmQoaYSY_rOXu_Pcr_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb3Rv/cndlZWsub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI2LzAz/L3Jpdmlhbi1yMi1p/cy1tb3JlLW1pZHNp/emUtdGhhbi10aGUt/cjFzLTMxLTE5MjB4/ODAwLmpwZw",
+  "isAvailable": true,
+  "transmission": "Single-Speed",
+  "fuelType": "Electric",
+  "engine": "Quad-Motor AWD",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cbc"
+  },
+  "id": 13,
+  "brand": "Bentley",
+  "model": "Continental GT",
+  "pricePerDay": 550,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/TDVdX1bJM1rDSXNOEH7DflNdnb3mJc_Pm04QKXpr8eU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjU3/NjQ1NzYuanBn",
+  "isAvailable": true,
+  "transmission": "8-Speed Dual-Clutch",
+  "fuelType": "Gasoline",
+  "engine": "6.0L W12 Twin-Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cbd"
+  },
+  "id": 14,
+  "brand": "Land Rover",
+  "model": "Range Rover SV",
+  "pricePerDay": 450,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/LergRuBXQvoQjzyLvMC7Mwsvpl6H1yc-xWmdiI1-eKk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC82LzQv/Ni8zMzkyLTE5MjB4/MTI1MS1kZXNrdG9w/LWhkLXJhbmdlLXJv/dmVyLWJhY2tncm91/bmQtaW1hZ2UuanBn",
+  "isAvailable": true,
+  "transmission": "8-Speed Automatic",
+  "fuelType": "Gasoline",
+  "engine": "4.4L V8 Twin-Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cbe"
+  },
+  "id": 15,
+  "brand": "Chevrolet",
+  "model": "Corvette Z06",
+  "pricePerDay": 280,
+  "type": "Performance",
+  "imageUrl": "https://imgs.search.brave.com/Rv1UycfVO9yjOLkqSQvjJG7hZlkIbdPbl0n5mcwCYa4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY2hl/dnJvbGV0LWNvcnZl/dHRlLXowNi0xOTIw/LXgtMTA4MC13YWxs/cGFwZXItaGE2NGRo/ZHFmM3Y0dmprMi5q/cGc",
+  "isAvailable": true,
+  "transmission": "8-Speed DCT",
+  "fuelType": "Gasoline",
+  "engine": "5.5L V8 LT6",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cbf"
+  },
+  "id": 16,
+  "brand": "Ford",
+  "model": "Mustang Dark Horse",
+  "pricePerDay": 140,
+  "type": "Performance",
+  "imageUrl": "https://imgs.search.brave.com/Y-jdZqWYWZKqQAS_pODIxa0rNLMo8K4e_F0UoCVi56E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d3N1cGVyY2Fycy5j/b20vdGh1bWJuYWls/cy13aWRlL0ZvcmQv/MjAyNC1Gb3JkLU11/c3RhbmctRGFyay1I/b3JzZS0wMDEuanBn",
+  "isAvailable": true,
+  "transmission": "6-Speed Manual",
+  "fuelType": "Gasoline",
+  "engine": "5.0L Coyote V8",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc0"
+  },
+  "id": 17,
+  "brand": "Maserati",
+  "model": "MC20 Cielo",
+  "pricePerDay": 600,
+  "type": "Exotic",
+  "imageUrl": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1200",
+  "isAvailable": true,
+  "transmission": "8-Speed DCT",
+  "fuelType": "Gasoline",
+  "engine": "3.0L V6 Nettuno",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc1"
+  },
+  "id": 18,
+  "brand": "Cadillac",
+  "model": "Escalade-V",
+  "pricePerDay": 380,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/hT4jK4ffDRoi6t7R-Y1aJr12mFtAaMGs7TDqUynolV0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC84L2Uv/NS8xNjY3MTMzLTE5/MjB4MTQ0MC1kZXNr/dG9wLWhkLWNhZGls/bGFjLWVzY2FsYWRl/LXdhbGxwYXBlci1w/aG90by5qcGc",
+  "isAvailable": true,
+  "transmission": "10-Speed Automatic",
+  "fuelType": "Gasoline",
+  "engine": "6.2L V8 Supercharged",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc2"
+  },
+  "id": 19,
+  "brand": "Lexus",
+  "model": "LC 500",
+  "pricePerDay": 210,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/tlOPsMTLXTDlb8d-HHiGWVi3dgEM0VTTWLJc3jK_-Zs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLnRvcHNwZWVk/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzL3dtLzIwMjUv/MDYvbGV4dXMtbGM1/MDAtMTIuanBnP3E9/NDkmZml0PWNyb3Am/dz04MjUmZHByPTI",
+  "isAvailable": true,
+  "transmission": "10-Speed Direct-Shift",
+  "fuelType": "Gasoline",
+  "engine": "5.0L V8",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc3"
+  },
+  "id": 20,
+  "brand": "Rimac",
+  "model": "Nevera",
+  "pricePerDay": 2500,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/cRu5vbNQxt4xaOC7EWK2EQTXFAI84Ff39G-pV4OJ9pU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjA3/NDg1MC5qcGc",
+  "isAvailable": true,
+  "transmission": "Single-Speed",
+  "fuelType": "Electric",
+  "engine": "Quad-Motor 1914hp",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc4"
+  },
+  "id": 21,
+  "brand": "Toyota",
+  "model": "GR Supra",
+  "pricePerDay": 130,
+  "type": "Performance",
+  "imageUrl": "https://imgs.search.brave.com/z5utUKZDM2uSxhjLrbZ1OOkK1cWjTG737UKvcNj0Gxs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMyLmFscGhhY29k/ZXJzLmNvbS8xMjMv/dGh1bWJiaWctMTIz/MjgyMS53ZWJw",
+  "isAvailable": true,
+  "transmission": "8-Speed Automatic",
+  "fuelType": "Gasoline",
+  "engine": "3.0L Inline-6 Turbo",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc5"
+  },
+  "id": 22,
+  "brand": "Jaguar",
+  "model": "F-Type R",
+  "pricePerDay": 190,
+  "type": "Performance",
+  "imageUrl": "https://imgs.search.brave.com/OxuUh80Sg0f8hqKAMze41tfnnTQTvEUTNdYHO8A_L_4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMyLmFscGhhY29k/ZXJzLmNvbS8xMDUv/dGh1bWJiaWctMTA1/NDY1Mi53ZWJw",
+  "isAvailable": true,
+  "transmission": "8-Speed Quickshift",
+  "fuelType": "Gasoline",
+  "engine": "5.0L V8 Supercharged",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc6"
+  },
+  "id": 23,
+  "brand": "Mercedes-Benz",
+  "model": "S-Class",
+  "pricePerDay": 300,
+  "type": "Luxury",
+  "imageUrl": "https://imgs.search.brave.com/jQ5IQaR20AeqrpV3hipIUQwbwQ88uW0ChrmX37P4RjE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjEx/NDQ3Mi5qcGc",
+  "isAvailable": true,
+  "transmission": "9-Speed Auto",
+  "fuelType": "Gasoline",
+  "engine": "4.0L V8",
+  "variants": []
+},
+{
+  "_id": {
+    "$oid": "69bd6f12948a80339c502cc7"
+  },
+  "id": 24,
+  "brand": "Bugatti",
+  "model": "Chiron",
+  "pricePerDay": 5000,
+  "type": "Exotic",
+  "imageUrl": "https://imgs.search.brave.com/38wl33EpXx4wyNXOMEYV41fbdUSOjnW0XTc6YSVvdto/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDE4NTk1/NDkuanBn",
+  "isAvailable": true,
+  "transmission": "7-Speed DCT",
+  "fuelType": "Gasoline",
+  "engine": "8.0L W16 Quad-Turbo",
+  "variants": []
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "69c29d01429d9086fdad7ccd"
+  },
+  "id": "SR-CX1BEE",
+  "userId": "69c12e74a80b8a9f651d9adf",
+  "carId": 1,
+  "carName": "Tesla Model S Plaid",
+  "user": "karlguiao@gmail.com",
+  "startDate": {
+    "$date": "2026-03-24T16:17:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-25T16:17:00.000Z"
+  },
+  "total": 150,
+  "service": "pickup",
+  "address": "N/A",
+  "color": "Standard",
+  "status": "active",
+  "terminationRequest": {
+    "returnMethod": "standard_return",
+    "requestDate": {
+      "$date": "2026-03-24T14:17:37.845Z"
+    }
+  },
+  "created_at": {
+    "$date": "2026-03-24T14:17:37.845Z"
+  },
+  "__v": 0
+}]
